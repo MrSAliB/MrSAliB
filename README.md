@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer at Divar.ir
+I'm a software engineer and computer science student born on February 28th, 2002. Currently, I work at Divar.ir, where I apply my programming skills to develop software solutions that improve user experience and streamline business operations. In addition to my work, I'm pursuing a degree in computer science at Kharazmi University, where I'm expanding my knowledge and honing my skills in programming languages, algorithms, and software engineering principles. With a passion for technology and a commitment to excellence, I'm dedicated to making a positive impact in the world through my work as a programmer.
 
 
 ## 🌐 Socials:
